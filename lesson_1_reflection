@@ -1,0 +1,8 @@
+lesson_1_reflection
+viewing the differences helps to find mistakes. 
+If i have an old version of the file and my code stops working i can find exactly where i went wrong.
+pros: logical saves. cons: human error
+for git it is important to be able to save many files because they could all be related.
+with git log and git diff i can look over all of my past commits and find the mistake i made easily.
+i can go back and reset to a prior commit so i am willing to take more risks while coding.
+i will use git to store files and help with finding bugs in my code. 
