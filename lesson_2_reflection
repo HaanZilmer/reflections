@@ -1,0 +1,8 @@
+lesson_2_reflection
+when i initialize a repository it starts an area in which i can view commits. you need to do it in order to view the commits.
+the staging area allows me to prepare a file to be committed or multiple files to be committed at once.
+the stagin area shows me what is about to be committed so i can check to mkae sure that the commit is logical.
+branches help to make different versions of the game. they are separate versions of th eoriginal code.
+visualizing the branches has helped me to further understand the structure of the branches. 
+merging two branches allows you to work on different aspects of a project separately and then combine them easily. 
+the pros of automatic merging is that you don't have to go through the process of merging. con is that they could merge the branches whe you don't want them to. 
